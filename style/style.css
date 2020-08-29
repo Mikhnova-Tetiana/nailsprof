@@ -172,6 +172,7 @@ header {
 }
 .phones a {
   font: 1.125rem/1.25rem "Open Sans", sans-serif;
+  text-decoration: none;
   background: linear-gradient(to right, #9f9f9f 40%, #ffffff 40%);
   background-clip: text;
   -webkit-background-clip: text;
